@@ -1,0 +1,2 @@
+アプリケーション開発　
+git : https://github.com/keikunn-0/AI-ykirena.git
